@@ -1,11 +1,9 @@
 # Microsoft Power BI PWC PowerBI Virtual Case Experience
 
-# 📋 Introduction
+# Introduction
 This repository displays the process and outcomes of the tasks completed during the PwC Switzerland PowerBI Virtual Case Experience developed by Forage. The virtual internship is created to simulate work in the Digital Accelerator team at PwC Switzerland and leverages Power BI.
 
 All of these .pbix files and insights were my submissions for this program, except for the data files which were assigned by PwC Switzerland.
-
-image
 
 
 # 📌 Scenario
@@ -39,9 +37,10 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management The Retentions Manager has provided some information, have a look through the resource section.
 
 ![Dashboard2](https://github.com/geosimarmata/Power-BI-at-PWC/blob/main/Task%202%20-%20Customer%20Retention/Churn%20Dashboard.png)
+
 ![Dashboard3](https://github.com/geosimarmata/Power-BI-at-PWC/blob/main/Task%202%20-%20Customer%20Retention/Customer%20Risk%20Dashboard.png)
 
-Task 3: Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
+## Task 3: Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
 
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
@@ -61,4 +60,5 @@ Here is a hint: Calculating the following measures could help to define proper K
 - Average Performance rating: women
 
 ![Dashboard4](https://github.com/geosimarmata/Power-BI-at-PWC/blob/main/Task%203%20-%20Diversity%20%26%20Inclusion/Dashboard%201%20-%20Divesity%20%26%20Inclusion.png)
+
 ![Dashboard5](https://github.com/geosimarmata/Power-BI-at-PWC/blob/main/Task%203%20-%20Diversity%20%26%20Inclusion/Dashboard%202%20-%20Divesity%20%26%20Inclusion.png)
