@@ -1,4 +1,5 @@
-# Microsoft Power BI PWC PowerBI Virtual Case Experience
+# PwC Switzerland - Power BI Job Simulation
+![Dashboard1](https://github.com/geosimarmata/Power-BI-at-PWC/blob/main/Task%201%20-%20Call%20Center%20Trends/Logo-pwc.png)
 
 # Introduction
 This repository displays the process and outcomes of the tasks completed during the PwC Switzerland PowerBI Virtual Case Experience developed by Forage. The virtual internship is created to simulate work in the Digital Accelerator team at PwC Switzerland and leverages Power BI.
@@ -6,7 +7,7 @@ This repository displays the process and outcomes of the tasks completed during 
 All of these .pbix files and insights were my submissions for this program, except for the data files which were assigned by PwC Switzerland.
 
 
-# 📌 Scenario
+# Scenario
 
 At PwC, we work with global organizations, upskilling our 276,000 employees. Our goal is to provide everyone with the opportunity to learn, work, and participate in the digital world. Our employees have the chance to become "Digital Accelerators" by rapidly deepening their skills in digital specialties such as data, automation, AI, and digital storytelling. They do this by learning self-service tools and coding languages and applying these skills across our business. Your manager, Giulia, will guide you through your upskilling journey in PowerBI. You'll become a data Jedi and Digital Accelerator. An important client (communication has already reached out to you for help visualizing their data.
 
@@ -22,6 +23,7 @@ Possible KPIs include (to get you started, but not limited to):
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+- 
 ![Dashboard](https://github.com/geosimarmata/Power-BI-at-PWC/blob/main/Task%201%20-%20Call%20Center%20Trends/Call%20Center%20Trends%20Dashboard.png)
 
 ## Task 2: Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
